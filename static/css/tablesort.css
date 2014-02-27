@@ -1,0 +1,26 @@
+  
+    td.extra{
+      width: 210px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: wrap;
+      display: block;
+    }
+
+    th.header {
+      background-image: url(http://postbear.cav.udesc.br/static/img/bg.gif);
+      background-repeat: no-repeat;
+      background-position: left;
+      padding-left: 20px;
+      margin-left: -1px;
+    }
+      th.headerSortUp {
+      background-image: url(http://postbear.cav.udesc.br/static/img/asc.gif);
+      color: #3399FF;
+    }
+    th.headerSortDown {
+      background-image: url(http://postbear.cav.udesc.br/static/img/desc.gif);
+      color: #3399FF;
+    }
+
+  

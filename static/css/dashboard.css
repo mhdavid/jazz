@@ -1,0 +1,70 @@
+#last10{
+	
+}
+
+li{
+	list-style: none;
+}
+
+#logo{
+
+	float: left;
+	width: 245px;
+	height: 100px;
+
+}
+
+ .container-narrow {
+
+background-color: #ffffff;
+
+background-color: #fff;
+        border: 1px solid #e5e5e5;
+        -webkit-border-radius: 5px;
+           -moz-border-radius: 5px;
+                border-radius: 5px;
+        -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+           -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+                box-shadow: 0 1px 2px rgba(0,0,0,.05);
+
+
+
+padding: 20px;
+min-height: 550px;
+ }
+
+ #options{
+	/*float: left;*/
+	padding-top: 25px;
+	margin: auto;
+
+ }
+
+ .form-horizontal .control-label {
+    float: left;
+    width: 80px;
+    padding-top: 5px;
+    text-align: right;
+}
+
+.temas{
+
+	text-transform: capitalize;
+}
+
+#botoes{
+	text-align: center;
+}
+
+#footer{
+	background-color: #e5e5e5;
+	border-top: thin solid #e0e0e0;
+	position: relative;
+	height: 50px;
+	text-align: center;
+	/*width: 740px;*/
+	margin: auto;
+	bottom: 0px;
+	padding-top: 20px;
+
+}
